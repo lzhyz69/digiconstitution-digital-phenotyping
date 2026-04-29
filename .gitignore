@@ -1,0 +1,6 @@
+data_private/
+*.xlsx
+*.xls
+*.pkl
+__pycache__/
+.DS_Store

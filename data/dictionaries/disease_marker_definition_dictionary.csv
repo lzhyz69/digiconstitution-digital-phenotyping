@@ -1,0 +1,23 @@
+﻿variable,analysis_column,interpretation
+Recorded cerebrovascular disease,history_cerebrovascular,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Recorded heart disease,history_heart_disease,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Recorded kidney disease,history_kidney_disease,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Recorded vascular disease,history_vascular_disease,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Recorded eye disease,history_eye_disease,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Recorded neurological disease,history_neuro_disease,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Recorded other system disease,history_other_system_disease,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Abnormal ECG,abnormal_ecg,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Abnormal abdominal ultrasound,abnormal_abdominal_ultrasound,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Abnormal chest X-ray,abnormal_chest_xray,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Urine protein trace/positive,proteinuria_trace_or_positive,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Urine glucose trace/positive,glycosuria_trace_or_positive,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Urine occult blood trace/positive,hematuria_trace_or_positive,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Liver enzyme elevation,liver_enzyme_elevated,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Anemia,anemia,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Kidney impairment or proteinuria,kidney_impairment_or_proteinuria,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Diabetes-related marker,diabetes_related_marker,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+Cardiometabolic risk cluster,cardiometabolic_risk_cluster,Recorded history or examination abnormality from the community health examination form; coded as present vs absent when the source value was interpretable.
+High BP (>=140/90),high_bp,"Disease-related risk marker, not a physician diagnosis; defined from measured BP."
+FPG >=7.0 mmol/L,diabetes_fpg,"Diabetes-range fasting glucose marker, not a diagnosis by itself."
+Any dyslipidemia,any_dyslipidemia,Risk marker defined from TC/TG/LDL-C/HDL-C thresholds.
+eGFR <60,low_egfr,Kidney function risk marker calculated by CKD-EPI 2021 creatinine equation.

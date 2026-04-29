@@ -1,0 +1,4 @@
+﻿burden,included_markers
+recorded_disease_burden,Recorded cerebrovascular disease; Recorded kidney disease; Recorded heart disease; Recorded vascular disease; Recorded eye disease; Recorded neurological disease
+cardiometabolic_marker_burden,Obesity; High BP (>=140/90); FPG >=6.1 mmol/L; High TG; High LDL-C; Low HDL-C; eGFR <60
+examination_marker_burden,High BP (>=140/90); Diabetes-related marker; Any dyslipidemia; Abnormal ECG; Abnormal abdominal ultrasound; Proteinuria trace/positive; Glycosuria trace/positive; Hematuria trace/positive; Liver enzyme elevation; Anemia; Kidney impairment or proteinuria

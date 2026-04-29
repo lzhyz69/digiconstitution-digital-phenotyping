@@ -1,0 +1,6 @@
+excluded_file,reason
+德阳数据库2026版.xlsx,Participant-level or raw restricted data
+outputs/initial_analysis/tables/baseline_first_record_analysis_frame.csv,Participant-level or raw restricted data
+outputs/initial_analysis/tables/lagged_adjacent_annual_records.csv,Participant-level or raw restricted data
+outputs/initial_analysis/tables/adjacent_constitution_transitions_long.csv,Participant-level or raw restricted data
+outputs/initial_analysis/analysis_model_frame.pkl,Participant-level or raw restricted data
